@@ -72,13 +72,9 @@ I thrive at the intersection of **great UX and solid architecture** — whether 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsamaIrfan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaIrfan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=UsamaIrfan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UsamaIrfan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaIrfan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
