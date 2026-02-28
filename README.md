@@ -70,14 +70,6 @@ I thrive at the intersection of **great UX and solid architecture** — whether 
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=UsamaIrfan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UsamaIrfan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaIrfan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🤝 Let's Connect
 
 Whether it's a freelance project, open source collaboration, or just a good tech conversation — my inbox is open.
